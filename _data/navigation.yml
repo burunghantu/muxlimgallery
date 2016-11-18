@@ -6,13 +6,13 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Collection Archive"
-    url: /collection-archive/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
+  - title: "Semua Produk"
+    url: /semua-produk/
+    # children:
+    #   - title: "Child Link 1"
+    #     url: /child-1-page-url/
+    #   - title: "Child Link 2"
+    #     url: /child-2-page-url/
     
   - title: "Herbal"
     url: /herbal/
@@ -21,7 +21,7 @@ main:
     url: /sajadah/
 
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
 
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
