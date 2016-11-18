@@ -13,7 +13,6 @@ logo                     : "/images/logo/logo-text.png"
 name                     : "Muxlim Gallery"
 description              : "Menjual berbagai herbal"
 url                      : https://burunghantu.github.io
-# url                      : http://127.0.0.1:4000
 # baseurl                  : /minimal-mistakes
 gh_repo                  : https://github.com/burunghantu/minimal-mistakes.git
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
