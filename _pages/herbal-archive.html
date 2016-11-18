@@ -3,15 +3,15 @@ layout: splash
 title: "Herbal"
 permalink: /herbal/
 paginate:
-  collection: produk
+  collection: herbal
 ---
 
 {% include base_path %}
 
 <div class="grid__wrapper">
-  {% for post in paginator.produk %}
+  {% for post in paginator.herbal %}
     {% include produk_herbal-single.html type="grid" %}
   {% endfor %}
 </div>
 
-{% include paginator_produk.html %}
+{% include paginator_herbal.html collection="herbal" %}

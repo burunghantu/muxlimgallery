@@ -157,7 +157,10 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 collections:
-  produk:
+  herbal:
+    output: true
+    permalink: /:collection/:title/
+  sajadah:
     output: true
     permalink: /:collection/:title/
 

@@ -1,0 +1,17 @@
+---
+layout: splash
+title: "Sajadah Rasfur"
+permalink: /sajadah/
+paginate:
+  collection: sajadah
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in paginator.sajadah %}
+    {% include produk_sajadah-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+{% include paginator_sajadah.html %}
