@@ -1,0 +1,27 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Collection Archive"
+    url: /collection-archive/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+    
+  - title: "Herbal"
+    url: /herbal/
+
+  - title: "Karpet"
+    url: /karpet/
+
+  - title: "Blog"
+    url: /year-archive/
+
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/

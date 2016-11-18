@@ -1,0 +1,15 @@
+<div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
+  style="background-color: #009879; background-image: url('../images/assets/header-lapak-default.png'); background-repeat: repeat; background-size: initial; margin-bottom: -67px;"
+>
+  {% if page.header.overlay_color or page.header.overlay_image %}
+    <div class="wrapper">
+      <h1 class="page__title" itemprop="headline">Belanja Lebih Aman</h1>
+      <p class="page__lead">Kunjungi akun <em>marketplace</em> kami untuk belanja lebih mudah dan aman</p>
+    </div>
+  {% else %}
+    <img src="{{ img_path }}" alt="{{ page.title }}" class="page__hero-image">
+  {% endif %}
+  {% if page.header.caption %}
+    <span class="page__hero-caption">Photo credit: <b>Bukalapak</b></span>
+  {% endif %}
+</div>

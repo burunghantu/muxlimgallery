@@ -1,0 +1,17 @@
+---
+layout: splash
+title: "Karpet Rasfur"
+permalink: /karpet/
+paginate:
+  collection: produk
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in paginator.produk %}
+    {% include produk_karpet-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+{% include paginator_produk.html %}
