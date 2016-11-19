@@ -1,6 +1,6 @@
 ---
 title: "Post: Image (with Link)"
-layout: single
+layout: singlepost
 categories:
   - Portfolio
 tags:

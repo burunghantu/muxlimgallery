@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: singlepost
 title: "Markup: Image Alignment"
 categories:
   - Markup

@@ -1,0 +1,17 @@
+---
+layout: splash
+title: "Sajadah Rasfur"
+permalink: /karpet/
+paginate:
+  collection: karpet
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in paginator.karpet %}
+    {% include produk_karpet-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+{% include paginator_karpet.html %}

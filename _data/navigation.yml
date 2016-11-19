@@ -18,7 +18,10 @@ main:
     url: /herbal/
 
   - title: "Sajadah"
-    url: /sajadah/
+    url: /sajadah/  
+
+  - title: "Karpet"
+    url: /karpet/
 
   - title: "Blog"
     url: /blog/
