@@ -1,6 +1,6 @@
 ---
 title: "Albuplus Extrak Ikan Kutuk / Gabus"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Albumin plus, protein alami."
 header:
   teaser: produk/herbal/thumb/albuplus-extrak-ikan-kutuk-gabus.jpg
 sidebar:
@@ -9,15 +9,12 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: unsplash-gallery-image-1.jpg
-    image_path: unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: produk/herbal/albuplus-extrak-ikan-kutuk-gabus.jpg
+    image_path: produk/herbal/thumb/albuplus-extrak-ikan-kutuk-gabus.jpg
+    alt: "albumin sari ikan gabus"
+  - url: produk/herbal/albuplus-extrak-ikan-kutuk-gabus-b.jpg
+    image_path: produk/herbal/thumb/albuplus-extrak-ikan-kutuk-gabus.jpg
+    alt: "albumin sari ikan gabus"
 categories : herbal
 tags:
   - herbal
@@ -25,8 +22,18 @@ tags:
 layout: single
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+{% include gallery %}
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+### Apa Manfaat Albumin Ikan Gabus Untuk Penyakit Berat?
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Manfaat Albumin Ikan Gabus Untuk Penyakit Berat
+Banyak sekali khasiat dan manfaat albumin, tak terkecuali Kapsul Albumin plus protein alami merk “ALBUPLUS” yang berasal dari ekstrak sari ikan gabus/kutuk.
+
+Manfaat Albumin Plus ALBUPLUS adalah untuk menambah Albumin dalam tubuh, tanpa kawatir kelebihan albumin karena terbuat dari bahan alami. Apabila terjadi kelebihan albumin dalam tubuh, akan diekssekresi dengan sendirinya oleh tubuh tanpa efek samping.
+
+Ikan gabus (gabus) sendiri memiliki kandungan albumin yang cukup tinggi dan terbukti memiliki berbagai khasiat untuk kesehatan tubuh. Karena kadar protein pada ikan gabus lebih tinggi dibanding protein pada ikan nila, ikan belida, ikan mas, ikan seluang dan ikan lele.
+Adapun khasiat dan manfaat Albumin Plus ALBUPLUS yang diekstrak dari ikan gabus adalah sebagai berikut:
+
+Kapsul Albumin Plus ALBUPLUS dengan kandungan ALBUMIN ekstrak ikan gabus memiliki efek terapi sangat baik terhadap berbagai penyakit berat. Bahkan bagi orang sehat, ekstrak ikan kutuk ini juga penting untuk dikonsumsi.
+
+Kapsul Albumin ALBUPLUS ini tidak memiliki efek samping meski dikonsumsi dalam jumlah banyak. Bagi penderita kolesterol, kapsul ini juga aman karena mengandung asam lemak tak jenuh. Demikian pula untuk penderita gagal ginjal, Kapsul Plus juga aman.

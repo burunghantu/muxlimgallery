@@ -316,3 +316,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     text-transform: uppercase;
   }
 }
+
+// add custom inline style
+i.toped, 
+i.bulak, 
+i.shopee {
+    background: red;
+    width: 35px;
+    height: 35px;
+}
