@@ -13,7 +13,7 @@ logo                     : "/images/logo/logo-text.png"
 name                     : "Muxlim Gallery"
 description              : "Aman dan Amanah"
 url                      : https://burunghantu.github.io
-baseurl                  : /muxlimgallery
+# baseurl                  : /muxlimgallery
 gh_repo                  : https://github.com/burunghantu/muxlimgallery.git
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true
